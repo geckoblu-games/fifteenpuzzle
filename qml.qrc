@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/fifteenpuzzle.js</file>
+        <file>qml/main.qml</file>
+        <file>qml/VictoryDialog.qml</file>
+        <file>qml/Cell.qml</file>
+        <file>icon.png</file>
+        <file>qml/MyButton.qml</file>
+        <file>qml/FirstRun.qml</file>
+    </qresource>
+</RCC>
