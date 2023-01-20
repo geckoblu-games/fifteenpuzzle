@@ -55,7 +55,7 @@ Rectangle {
             id: label
             anchors.centerIn: parent
 
-            font.pointSize: parent.height / 10 * 4
+            font.pointSize: parent.height > 0 ? parent.height / 10 * 4 : 1
 
             color: hovered ? Qt.lighter(fontColor, 1.1) : fontColor
 
