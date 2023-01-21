@@ -11,6 +11,7 @@ The Qt libraries (version >= 6.4) are required. Make sure that they are installe
 
     qmake -o Makefile fifteenpuzzle.pro
     make
-    
+    sudo make install
+
 ## License
 fifteenpuzzle is licensed under the [GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.en.html) or later. 
